@@ -6,3 +6,5 @@ Please fork and clone this repo to your computer by the start of class.
 
 
 Thursday December 10th Sean Chen: https://youtu.be/gCBcfo4SDI4
+
+- [x] Initial commit
